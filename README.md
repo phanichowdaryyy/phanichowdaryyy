@@ -26,7 +26,7 @@
 
 ### Languages and Tools:
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Feducation.oracle.com%2Fpt_BR%2Fjava-in-use-2020-beyond&ved=0CBYQjRxqFwoTCPDGhtSjoJUDFQAAAAAdAAAAABBT&opi=89978449" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
